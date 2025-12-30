@@ -1,4 +1,4 @@
-# Cloud Computing Semester Project — CI/CD Pipeline (Beginner-Friendly)
+# Cloud Computing Semester Project — CI/CD Pipeline
 
 This repo is a minimal **Student Management System REST API** (Flask + PostgreSQL) with a complete **CI/CD pipeline** using:
 - GitHub Actions (CI/CD)
